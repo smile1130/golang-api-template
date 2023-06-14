@@ -1,10 +1,4 @@
-# Golang API Skeleton
-> A simple API skeleton written in Go with metrics pre-configurated
-
-
-[![Build Status](https://travis-ci.org/michelaquino/golang_api_skeleton.svg?branch=master)](https://travis-ci.org/michelaquino/golang_api_skeleton)
-[![License][license-image]][license-url]
-
+# Golang API Template
 
 ## Includes
   - [Zap - Uber Log library](https://github.com/uber-go/zap)
@@ -43,7 +37,3 @@ Access:
 - http://localhost:3000 to view Grafana metrics pre-configurated
 - http://localhost:9090 to view Prometheus server
 
-[license-image]: https://img.shields.io/badge/License-GPL3.0-blue.svg
-[license-url]: LICENSE
-[travis-image]: https://img.shields.io/travis/michelaquinoe/golang_api_skeleton/master.svg
-[travis-url]: https://travis-ci.org/michelaquino/golang_api_skeleton
